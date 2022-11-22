@@ -1,0 +1,170 @@
+[
+    {   
+        "nombre": "Mariposa Atlas",
+        "especie": "Attacus atlas",        
+        "tipo_de_insecto": "Polilla",
+        "id": 1, 
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla1.jpg"
+    },
+    {
+        "nombre": "Macaón",
+        "especie": "Papilio machaon",        
+        "tipo_de_insecto": "Mariposa",
+        "id": 2,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla2.jpg"
+    },
+    {
+        "nombre": "Pequeño Pavón",
+        "especie": "Saturnia pavonia",        
+        "tipo_de_insecto": "Polilla",
+        "id": 3,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla3.jpg"
+    },
+    {
+        "nombre": "Mariposa Morfo Azul",
+        "especie": "Morpho menelaus",        
+        "tipo_de_insecto": "Mariposa",
+        "id": 4,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla4.jpg"
+    },
+    {
+        "nombre": "Mata Pálida",
+        "especie": "Calliteara pudibunda",        
+        "tipo_de_insecto": "Polilla",
+        "id": 5,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla5.jpg"
+    },
+    {
+        "nombre": "Blanquiverdosa",
+        "especie": "Pontia daplidice",        
+        "tipo_de_insecto": "Mariposa",
+        "id": 6,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla6.jpg"
+    },
+    {
+        "nombre": "Esfinge Colibrí",
+        "especie": "Macroglossum stellatarum",        
+        "tipo_de_insecto": "Polilla",
+        "id": 7,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla7.jpg"
+    },
+    {
+        "nombre": "Hormiguera Oscura",
+        "especie": "Phengaris nausithous",        
+        "tipo_de_insecto": "Mariposa",
+        "id": 8,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla8.jpg"
+    },
+    {
+        "nombre": "Mariposa Harpía",
+        "especie": "Cerura vinula",        
+        "tipo_de_insecto": "Polilla",
+        "id": 9,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla9.jpg"
+    },
+    {
+        "nombre": "Mariposa Monarca",
+        "especie": "Danaus plexippus",        
+        "tipo_de_insecto": "Mariposa",
+        "id": 10,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla10.jpg"
+    },
+    {
+        "nombre": "Mariposa Luna China",
+        "especie": "Actias dubernardi",        
+        "tipo_de_insecto": "Polilla",
+        "id": 11,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla11.jpg"
+    },
+    {
+        "nombre": "Mariposa De La Col",
+        "especie": "Pieris brassicae",        
+        "tipo_de_insecto": "Mariposa",
+        "id": 12,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla12.jpg"
+    },
+    {
+        "nombre": "Mariposa De La Muerte",
+        "especie": "Ascalapha odorata",        
+        "tipo_de_insecto": "Polilla",
+        "id": 13,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla13.jpg"
+    },
+    {
+        "nombre": "Camuflada Verde",
+        "especie": "Siproeta stelenes",        
+        "tipo_de_insecto": "Mariposa",
+        "id": 14,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla14.jpg"
+    },
+    {
+        "nombre": "Polilla Rosada Del Arce",
+        "especie": "Dryocampa rubicunda",        
+        "tipo_de_insecto": "Polilla",
+        "id": 15,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla15.jpg"
+    },
+    {
+        "nombre": "Planeadora Roja",
+        "especie": "Cymothoe sangaris",        
+        "tipo_de_insecto": "Mariposa",
+        "id": 16,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla16.jpg"
+    },
+    {
+        "nombre": "Mariposa Luna",
+        "especie": "Actias luna",        
+        "tipo_de_insecto": "Polilla",
+        "id": 17,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla17.jpg"
+    },
+    {
+        "nombre": "Mariposa Azufre Sin Nubes",
+        "especie": "Phoebis sennae",        
+        "tipo_de_insecto": "Mariposa",
+        "id": 18,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla18.jpg"
+    },
+    {
+        "nombre": "Isoca De La Espiga",
+        "especie": "Helicoverpa zea",        
+        "tipo_de_insecto": "Polilla",
+        "id": 19,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla19.jpg"
+    },
+    {
+        "nombre": "Mariposa De Cristal",
+        "especie": "Greta oto",        
+        "tipo_de_insecto": "Mariposa",
+        "id": 20,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla20.jpg"
+    },
+    {
+        "nombre": "Mariposa Manchada",
+        "especie": "Comibaena bajularia",        
+        "tipo_de_insecto": "Polilla",
+        "id": 21,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla21.jpg"
+    },
+    {
+        "nombre": "Cola De Golondrina",
+        "especie": "Papilio nireus",        
+        "tipo_de_insecto": "Mariposa",
+        "id": 22,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla22.jpg"
+    },
+    {
+        "nombre": "Polilla Avispa",
+        "especie": "Euchromia polymena",        
+        "tipo_de_insecto": "Polilla",
+        "id": 23,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla23.jpg"
+    },
+    {
+        "nombre": "Mariposa Tigre",
+        "especie": "Danaus chrysippus",        
+        "tipo_de_insecto": "Mariposa",
+        "id": 24,
+        "thumbnailUrl": "https://ana211253.000webhostapp.com/imagenes/polilla24.jpg"
+    }
+]

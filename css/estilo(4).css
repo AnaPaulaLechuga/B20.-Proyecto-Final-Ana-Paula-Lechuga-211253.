@@ -1,0 +1,322 @@
+/*Paleta de colores
+#000000
+#016529
+#017E33
+#02973E
+#02E35C
+#0DFC6C
+#B3FED1
+#4EFD94
+#FFFFFF
+*/
+
+@font-face{
+    font-family: Butterfly;
+    src: url("../fonts/butterfly.otf");
+}
+
+@font-face{
+    font-family: Letters for Learners;
+    src: url("../fonts/Letters\ for\ Learners.ttf");
+}
+
+*{
+    margin: 0px; 
+    padding: 0px;
+}
+
+h4{
+    color: #0DFC6C;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: letters for learners, sans-serif;
+    text-align: center;
+}
+
+h5{
+    font-style: italic;
+    color: #B3FED1;
+    font-family: letters for learners, sans-serif; 
+}
+
+h5, h6{
+    font-size: 27px;
+    font-family: letters for learners, sans-serif;
+    text-align: center;
+}
+
+.card
+{
+    background-color: #000000;
+    color: #FFFFFF;
+    width: 325px; 
+    height: 325px;
+    margin: 27px;    
+    float: right;
+}
+
+.card-img-top{
+    max-width: 100%;    
+    display: block;
+    margin: 0 auto;
+}
+
+body
+{
+    width: 1000px;
+    background-color: #016529;
+    margin: 0 auto;
+}
+
+.contenedor {
+    background-color: #FFFFFF;
+    height: 3495px;
+    margin-right: -100px;
+    margin-left: -100px;
+    padding: 20px 30px;
+}
+
+.contenedor *{
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+header{
+    background-color: #02973E;
+    height: 150px;
+}
+
+header nav{
+    background-color: #02E35C;
+    width: 1000px; 
+    height: 100px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+header nav ul{
+    display: flex;
+    list-style: none;
+    margin: 15px; 
+}
+
+header nav ul li{
+    text-decoration: none;
+    align-items: center;
+    text-align: center;
+    padding: 0 15px 0 15px;
+    margin: 0 auto;
+}
+
+header nav ul li a{
+    color: #000000;
+    text-decoration: none;
+    font-family: butterfly, sans-serif;
+    font-size: 35px; 
+    font-weight: bold;
+}
+
+header nav ul li a:hover{
+    background-color: #017E33;
+    padding: 0 20px 0 20px;
+    transition: .75s; 
+    font-weight: normal;
+    color: #FFFFFF;
+}
+
+.active a:hover
+{
+    background-color: #000000;
+}
+
+.active a
+{
+    color: #FFFFFF;
+    font-weight: normal;
+    margin: 10px;      
+}
+
+.active
+{
+    background-color: #000000;
+    margin-bottom: 35px;    
+}
+
+.menu{
+    background-color: #02973E;
+    width: 1100px;
+    height: 125px;
+    margin: 0 auto;
+    margin-top: 2940px;
+}
+
+.menu nav{
+    background-color: #02E35C;
+    width: 1000px; 
+    height: 90px;
+    margin: 0 auto;
+    margin-top: -15px;    
+    padding: 5px;
+}
+
+.menu nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin: 15px;
+    align-items: center;
+}
+
+.menu nav ul li{
+    text-decoration: none;
+    align-items: center;
+}
+
+.menu nav ul li a{
+    text-decoration: none;   
+}
+
+.centro{
+    display: flex;
+}
+
+main{
+    background-color: #0DFC6C;
+    width: 100%; 
+    margin-right: 20px;
+    margin: 0 auto;
+}
+
+.main-2{
+    background-color: #4EFD94;
+    width: 100%;
+    margin-right: 20px; 
+}
+
+main section{
+    width: 1000px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+section{
+    background-color: #B3FED1;
+    margin-top: 10px;
+    padding: 15px;
+    font-size: 22px;
+    text-align: center;
+    width: 50%;
+}
+
+footer{
+    background-color: #000000;
+    color: #FFFFFF;
+    width: 98.5%; 
+    font-size: 30px;
+    font-family: butterfly, sans-serif;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/*Media queries*/
+
+@media (min-width: 600px) and (max-width: 900px){
+    .contenedor{
+        width: auto;
+        height: 11100px;
+        margin-right: -100px;
+        margin-left: -100px;
+        padding: 20px 30px;
+    }
+    
+    header{
+        height: 450px;
+        margin: 0;
+    }
+  
+    header nav{
+        margin: 0;
+        width: 65%;
+        height: 375px;
+    }
+  
+    header nav ul{
+        display: inline;
+        justify-content: center;
+    }
+
+    header nav ul li a{
+        font-size: 45px;
+    }
+
+    .active{
+        margin-bottom: 15px;    
+    }
+
+    h4{
+        font-size: 40px;
+        text-align: center;
+    }
+    
+    h5, h6{
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .card{
+        width: 400px;
+        height: 400px;
+        margin: 15px;
+    }
+
+    .row, .cards{
+        width: 51.5%;
+    }
+
+    .card-img-top{
+        width: 200px;
+        height: 200px;    
+    }
+
+    .menu{
+        height: 150px;
+        margin: 0;
+        padding: 0;
+        margin-top: 10275px;
+    }
+
+    .menu nav{
+        margin: 0;
+        width: 100%;
+        height: 100px;
+    }
+    
+    .menu nav ul{
+        width: 63.5%;
+        display: flex;
+        list-style: none;
+        justify-content: center;
+    }
+
+    .menu nav ul li{
+        text-decoration: none;
+        align-items: center;
+        margin: 0 15px 0 15px;
+    }
+
+    .menu nav ul li img{
+        width: 60px; height: 60px;
+    }
+
+    footer{
+        width: 61.5%; 
+        font-size: 23px;
+    }
+
+    img{
+        max-width: 100%;
+        margin: 0 auto;
+    }
+}
